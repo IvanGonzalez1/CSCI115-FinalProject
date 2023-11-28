@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World!\n";
 
     cout << "This is a test";
+    cout << "this is a test 2";
 }
 
 
